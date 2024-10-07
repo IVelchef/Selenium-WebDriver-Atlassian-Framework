@@ -31,6 +31,7 @@ Mac- Chrome Version 129.0.6668.90 (Official Build) (arm64)
 HUAWEI - Chrome Version 129.0.6668.90 (Official Build) (arm64) 
 
 Number of times the tests were run 10
+
 Tests at MAC - pass 9 /10
 
 Tests at HUAWEI - pass 8 /10
