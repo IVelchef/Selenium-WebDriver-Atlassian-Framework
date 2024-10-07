@@ -4,6 +4,7 @@
 Please fill in your Username and Password in folder JiraTestData 
 
 path there is src/test/java/atlassiantests/enums/JiraTestData
+
 There is no need to enter a project name in the folder, it is generated automatically 
 
 ------------------------------------------------------------------------------------
