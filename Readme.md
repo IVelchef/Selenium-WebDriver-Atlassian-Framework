@@ -38,14 +38,9 @@ Tests at HUAWEI - pass 8 /10
 
 
 
-
-
-
-
-
-
-  
-
-## 
-
+------------------------------------------------------------------------------------
+ It's possible that before the first execution of the tests, IntelliJ IDEA will throw an error
+ indicating that the project is set up in a different environment.
+ 
+ However, after running the tests, the project should configure itself automatically.
 
